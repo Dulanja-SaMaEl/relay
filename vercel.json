@@ -1,9 +1,4 @@
 {
   "version": 2,
-  "buildCommand": "",
-  "functions": {
-    "api/relay.js": {
-      "maxDuration": 60
-    }
-  }
+  "buildCommand": ""
 }
