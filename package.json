@@ -1,11 +1,8 @@
-﻿{
+{
   "name": "nexus-relay",
   "version": "1.0.0",
+  "private": true,
   "description": "HTTP Relay service (Vercel serverless & standalone Node server)",
-  "main": "api/relay.js",
-  "scripts": {
-    "start": "node relay-server.mjs"
-  },
   "dependencies": {
     "got-scraping": "^3.2.2"
   },
