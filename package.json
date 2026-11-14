@@ -1,5 +1,8 @@
 {
   "name": "nexus-relay",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "got-scraping": "^3.2.2"
+  }
 }
