@@ -1,0 +1,15 @@
+﻿{
+  "name": "nexus-relay",
+  "version": "1.0.0",
+  "description": "HTTP Relay service (Vercel serverless & standalone Node server)",
+  "main": "api/relay.js",
+  "scripts": {
+    "start": "node relay-server.mjs"
+  },
+  "dependencies": {
+    "got-scraping": "^3.2.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
