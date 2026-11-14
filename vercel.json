@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": null,
+  "functions": {
+    "api/relay.js": {
+      "memory": 128,
+      "maxDuration": 60
+    },
+    "api/health.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
